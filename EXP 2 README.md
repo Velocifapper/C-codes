@@ -2,7 +2,7 @@
 To learn about different data types and their size and demonstration of storage classes.
 
 # Software Used
-VS Code
+Programiz.com
 
 # Problem Statement
 1.) Write a program to show size of different data types.
