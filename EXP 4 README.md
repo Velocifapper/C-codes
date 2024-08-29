@@ -2,7 +2,7 @@
 To learn about bitwise operators in c++.
 
 # Software Used
-VS Code
+Programiz.com
 # Problem Statement
 1.) Write a c++ program to do bitwise operation.
 
