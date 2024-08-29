@@ -1,5 +1,5 @@
-//PRAKHAR GUPTA
-//PRN: 23070123101
+//Prakhar Bansal
+//23070123100
 #include<iostream>
 using namespace std;
 int main()
