@@ -1,7 +1,7 @@
 # Aim
 To learn about arithmetic, logical, miscelleaneous and assignment operators on c++.
 # Software Used
-VS Code
+Programiz.com
 
 # Problem Statement
 1.) Write a code for boolean operators in c++.
