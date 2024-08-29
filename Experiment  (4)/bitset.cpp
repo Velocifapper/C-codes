@@ -1,3 +1,6 @@
+//Prakhar Bansal
+//23070123100
+
 #include<iostream>
 #include<bitset>
 using namespace std;
